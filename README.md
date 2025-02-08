@@ -31,5 +31,3 @@ The project is designed to show how different data sources can be integrated sea
 - **C# with .NET** – Core programming language.
 - **Entity Framework Core** – ORM for database.
 - **Microsoft SQL Server** – Database management system.
-- **System.Text.Json** – JSON deserialization.
-- **System.Xml** – Library for XML.
